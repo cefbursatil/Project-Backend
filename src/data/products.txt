@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Computer",
+    "price": 600,
+    "description": "Quantum computer of NASA",
+    "code": "1",
+    "stock": 2,
+    "thumbnail": "http://localhost:8080/images/1640021782160.jpeg",
+    "id": 1,
+    "timestamp": 1640021782183
+  }
+]
